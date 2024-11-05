@@ -1,1 +1,1 @@
-# RSNA-Challenge
+# Lumbar Spine Degenerative Classification
